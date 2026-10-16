@@ -1,16 +1,18 @@
-## Hi there 👋
+# Luciana Ali Pontual
 
-<!--
-**LuPontual/LuPontual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Luciana Ali Pontual é fundadora e CEO da LULLIA e estuda como a inteligência artificial transforma a experiência entre empresas, marcas e pessoas.
 
-Here are some ideas to get you started:
+Há mais de 25 anos implementa projetos de tecnologia e marketing em grandes empresas, com passagens por Nokia, Globo.com, Agência Click e YDreams. É autora do livro *Descubra o Segredo de Milhões da Inteligência Artificial* (publicado como Luciana Pontual).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ideias
+- **Intelligence becomes Experience**: a IA deixa de ser só ferramenta de automação e passa a mudar a experiência entre empresas, marcas e pessoas.
+- **The Intelligence Gap**: a distância entre adotar IA e transformar o negócio com inteligência.
+- **Experience Intelligence**: eventos e experiências que geram aprendizado contínuo sobre clientes e parceiros.
+- **LULLIA Intelligence Index™**: medida de maturidade em IA em cinco dimensões (IA, dados, marca, experiência e receita).
+
+## Artigos
+Ensaios publicados em https://github.com/LuPontual/intelligence-becomes-experience
+
+## Links
+- Site: https://lucianapontual.com.br
+- LinkedIn: https://www.linkedin.com/in/lucianapontual
